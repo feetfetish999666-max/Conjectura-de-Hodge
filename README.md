@@ -22,14 +22,4 @@ O objetivo é tornar os conceitos mais acessíveis, usando Python como ferrament
 
 ## 🚀 Como usar  
 
-### Abrir no Google Colab  
-1. Clique no botão abaixo para abrir o notebook diretamente no Colab:  
-
-[![Open In Colab]  https://github.com/feetfetish999666-max/Conjectura-de-Hodge/blob/main/seu_arquivo.ipynb
-
-> Substitua `SEU_https://github.com/feetfetish999666-max/Conjectura-de-Hodge/blob/main/seu_arquivo.ipynbUSUARIO/SEU_REPOSITORIO` pelo caminho do seu GitHub.  
-
-### Executar localmente (Jupyter Notebook)  
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+### Abrir no Google Colab  https://github.com/feetfetish999666-max/Conjectura-de-Hodge/blob/main/seu_arquivo.ipynb
