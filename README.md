@@ -22,4 +22,4 @@ O objetivo é tornar os conceitos mais acessíveis, usando Python como ferrament
 
 ## 🚀 Como usar  
 
-### Abrir no Google Colab  https://github.com/feetfetish999666-max/Conjectura-de-Hodge/blob/main/seu_arquivo.ipynb
+### Abrir no Google Colab  
